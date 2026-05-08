@@ -68,7 +68,7 @@ npm run dev
 ### 4. 访问系统
 
 - 前端界面: http://localhost:5173
-- 接口文档: http://localhost:8000/接口文档
+- 接口文档: http://localhost:8080/接口文档
 
 ## 数据存储
 
